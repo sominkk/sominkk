@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Somin&desc=Web%20Developer&fontSize=90&descSize=30&descAlignY=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Somin&desc=Front-End%20Developer&fontSize=90&descSize=30&descAlignY=72)
 
 <!--
 ### Hi there 👋 
